@@ -1,2 +1,2 @@
 def f(n: int) -> str:
-  pass
+  return "1"
